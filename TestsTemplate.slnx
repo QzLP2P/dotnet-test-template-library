@@ -22,9 +22,9 @@
     <File Path="test/Directory.Build.targets" />
   </Folder>
   <Folder Name="/src/">
-    <Project Path="src/test-template/test-template.csproj" />
+    <Project Path="src/test-template/TestsTemplate.csproj" />
   </Folder>
   <Folder Name="/test/">
-    <Project Path="test/test-template.Tests/test-template.Tests.csproj" />
+    <Project Path="test/test-template.Tests/TestsTemplate.Tests.csproj" />
   </Folder>
 </Solution>

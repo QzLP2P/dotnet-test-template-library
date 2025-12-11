@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFrameworks>net8.0</TargetFrameworks>
@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\test-template\test-template.csproj" />
+    <ProjectReference Include="..\..\src\test-template\TestsTemplate.csproj" />
   </ItemGroup>
 
   <ItemGroup>
