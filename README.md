@@ -2,7 +2,7 @@
 
 ***An awesome template for your awesome library***
 
-[![NuGet package](https://img.shields.io/nuget/v/test-template.svg)](https://nuget.org/packages/test-template)
+[![NuGet package](https://img.shields.io/nuget/v/testsTemplate.svg)](https://nuget.org/packages/testsTemplate)
 
 
 ## Features
